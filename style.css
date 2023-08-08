@@ -1,0 +1,62 @@
+
+form h1{
+    text-align: center;
+}
+
+
+
+form{
+    border-style: solid;
+    width: 500px;
+    padding: 10px 20px 30px;
+    border-radius: 1em;
+    margin: 250px auto;
+    font-size: 30px;
+    background: linear-gradient(-135deg, #c850c0, #4158d0);
+    color: white;
+
+
+}
+
+
+.input label{
+    display: block;
+    margin-top: .5em;
+
+    
+}
+
+
+#uname {
+    width: 100%;
+    font-size: 1.5em;
+    border-radius: 1em;
+    
+    
+}
+#email{
+    width: 100%;
+    font-size: 1.5em;
+    border-radius: 1em;
+
+}
+#password{
+    width: 100%;
+    font-size: 1.5em;
+    border-radius: 1em;
+}
+
+button{
+   
+    border-radius: 1em;
+    width: 50%;
+    font-size: 1em;
+    
+    
+}
+ 
+
+.button{
+    text-align: center;
+    padding: 1em;
+}
